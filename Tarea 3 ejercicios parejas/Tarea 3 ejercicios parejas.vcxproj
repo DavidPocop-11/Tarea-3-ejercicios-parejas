@@ -139,6 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cálculo de Números Primos.cpp" />
+    <ClCompile Include="Registro de Ventas Semanales.cpp" />
     <ClCompile Include="Tarea 3 ejercicios parejas.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
